@@ -5,7 +5,7 @@ Account a=new Account();
 
     
     a.Industry ='Jklong';
-    a.Name='Ganes666asasasffdffffadhi';
+    a.Name='Ganes666asasasffddddddffffadhi';
     
     insert a;
     System.debug('One record inserted'+a);
